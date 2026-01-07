@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "body",
+  "base_artist": "DAYOUNG",
+  "createdAt": "2026-01-07T15:30:25.911572Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Body Language (feat. The Swon Brothers)",
+      "artist": "Blake Shelton feat. The Swon Brothers",
+      "has_synced": true,
+      "path": "select/01_Body_Language_(feat._The_Swon_Brothers)_Blake_Shelton_feat._The_Swon_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Body Language (feat. The Swon Brothers)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/02_Body_Language_(feat._The_Swon_Brothers)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Move Your Body",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/03_Move_Your_Body_Sia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Body",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_No_Body_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Body Like A Back Road",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/05_Body_Like_A_Back_Road_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Body Like A Back Road",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/06_Body_Like_A_Back_Road_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
+      "artist": "The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/07_If_I_Said_You_Had_A_Beautiful_Body_Would_You_Hold_It_Against_Me_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
+      "artist": "The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/08_If_I_Said_You_Had_A_Beautiful_Body_Would_You_Hold_It_Against_Me_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If I Said You Have a Beautiful Body (Would You Hold It Against Me) (Re- Recorded)",
+      "artist": "The Bellamy Brothers",
+      "has_synced": false,
+      "path": "select/09_If_I_Said_You_Have_a_Beautiful_Body_(Would_You_Hold_It_Against_Me)_(Re-_Recorded_The_Bellamy_Brothers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If I Said You Have a Beautiful Body (Would You Hold It Against Me) (Rerecorded)",
+      "artist": "The Bellamy Brothers",
+      "has_synced": false,
+      "path": "select/10_If_I_Said_You_Have_a_Beautiful_Body_(Would_You_Hold_It_Against_Me)_(Rerecorded)_The_Bellamy_Brothers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Body",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/11_No_Body_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Touch My Body",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/12_Touch_My_Body_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Over My Dead Body",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/13_Over_My_Dead_Body_Drake.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Body Electric",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/14_Body_Electric_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "body",
+      "artist": "DAYOUNG",
+      "has_synced": false,
+      "path": "select/pl_01_body_DAYOUNG.txt"
+    }
+  ]
+}
